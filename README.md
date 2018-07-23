@@ -15,17 +15,12 @@ In Linux, all files and directory be organized a file system which like a tree's
 **Table about the common Linux file systems**
 
 | Directory | Description |
-| :--- | :--- |
-|  |  |
-| /home |  |
-| /usr |  |
-| /etc |  |
+| :---      | :---                                               |
+| /         | The first layer file system and the Root directory |
+| /home     | User's home directory.include saved files and personal sitting |
+| /usr      | It is a improtant directory, all your programes in it,like the "program file" in Windows |
+| /etc      | This directory is include Linux system file and config file |
 
-  
-\| /     \| The first layer file system and the Root directory             \|  
-\| /home \| User's home directory.include saved files and personal sitting \|  
-\| /usr  \| It is a improtant directory, all your programes in it,like the "program file" in Windows. \|  
-\| /etc  \| This directory is include Linux system file and config file.   \|
 
 Like the name shell, _**Shell**_ is the shell of Linux. The core for Linux is _**Kernel**_. Shell is the way to control the Linux and return the Kernel's messages back. If you had used the _**DOS**_ in windows before , you will be easy to use the Shell in Linux.
 
