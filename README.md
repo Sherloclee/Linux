@@ -11,7 +11,6 @@ At first, you should know about that the desktop is not all of the Linux. Even i
 ## Linux file systems
 In Linux, all files and directory be organized a file system which like a tree's root. The file systems begin the top from Root directory. The Root directory include all files and directory.And also,the directory include other files and directory.The root directory is important. all files and directory mount on it. The Home directory is also one of the most improtant directory and you should know about it. It is a directory where you can save your personal files.We have so much directory in Linux file systems,but you must should know about table list when you first meeting Linux:
 
-{{ :9390540-43a9e298916ad65e.png?700 |}}
 
 **Table about the common Linux file systems**
 
