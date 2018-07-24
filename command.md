@@ -8,6 +8,10 @@ Here is a list of command :
 
 **mkdir**: creat a new directory
 
+**pushd**: switch the dir to target directory and push current dir into a stack
+
+**popd**:pop the dir from stack and switch to target
+
 **cat**: show what writed in file
 
 **ls**: list the list of directory
