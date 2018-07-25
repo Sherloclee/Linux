@@ -2,7 +2,7 @@
 
 About this part, i don't want to take you long time to install a linux system in your Windows system. So, i will show you a easy way to get a Ubuntu 16.04 LTS.
 
-> The follow step is base on Windows 10. Make sure your Windows 10 is build 16215 or later. 
+> The follow step is base on Windows 10. Make sure your Windows 10 is build 16215 or later.
 
 ## Step 1
 
@@ -16,6 +16,11 @@ And you should **restart your computer**
 
 Open the Microsoft Store and choose Ubuntu
 
+![](/assets/image_2018-07-25_23-19-13.png)
+
+![](/assets/image_2018-07-25_23-20-43.png)
+
 ## Step 3
 
 Setup your ubuntu 16.04 LTS and enjoy it.
+
