@@ -1,9 +1,11 @@
 # Hello world!
 
 [![](https://img.shields.io/badge/chat-telegram-green.svg?logo=telegram)](https://t.me/joinchat/B5W13REomRfHphVkXodmrw)
+[![](https://img.shields.io/badge/language-english-blue.svg)]()
 
-Gitbook Link:https://hdsky.gitbooks.io/linux/content/
+Gitbook Link: https://hdsky.gitbooks.io/linux/content/
 
+And here is a Chinese edition：https://github.com/HDsky/Linux-zh
 
 > ”Hello world“ is the first word show on screen when programmer learn a new computer language.
 
@@ -11,7 +13,7 @@ _**This part is a introduction about Linux and shell.**_
 
 What is _**Linux**_ ? It is a open source system build by thousands of developers. I guss you frequently used system is Windows. Don't be afraid, Linux is not too difficult to use. We use Ubuntu which is the most popular Linux Release,and it is basd on Debian.
 
-At first, you should know about that the desktop is not all of the Linux. Even if Ubuntu has a friendly desktop, but some many work esay use in shell. So, don't rely on desktop and start to lean how to use the shell will make it easy to control your Ubuntu.
+At first, you should know about that the desktop is not all of the Linux. Even if Ubuntu has a friendly desktop, but some many work esay use in shell. So, don't rely on desktop and start to lean how to use the shell will make it easy to control your Ubuntu. Of couse, you can use a Linux waht you want, but we show you it in Ubuntu 16.04 LTS(even thought it isn't stable at all).
 
 ## Linux file systems
 
@@ -23,9 +25,8 @@ In Linux, all files and directory be organized a file system which like a tree's
 | :---      | :---                                               |
 | /         | The first layer file system and the Root directory |
 | /home     | User's home directory.include saved files and personal sitting |
-| /usr      | It is a improtant directory, all your programes in it,like the "program file" in Windows |
+| /usr      | It is a improtant directory, all your programes in it, like the "program file" in Windows |
 | /etc      | This directory is include Linux system file and config file |
-
 
 Like the name shell, _**Shell**_ is the shell of Linux. The core for Linux is _**Kernel**_. Shell is the way to control the Linux and return the Kernel's messages back. If you had used the _**DOS**_ in windows before , you will be easy to use the Shell in Linux.
 
