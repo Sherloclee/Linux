@@ -30,7 +30,7 @@ In Linux, all files and directory be organized a file system which like a tree's
 
 Like the name shell, _**Shell**_ is the shell of Linux. The core for Linux is _**Kernel**_. Shell is the way to control the Linux and return the Kernel's messages back. If you had used the _**DOS**_ in windows before , you will be easy to use the Shell in Linux.
 
-In Ubuntu, you can use the sofware _**Terminal**_ to make the Shell work on Linux. I will tell you some tips about Shell. At the first, you can find Terminal \(find it in app center or use the hot ksey "Ctrl+Alt+T"\)and enter the next code in it for test: `pwd`
+In Ubuntu, you can use the sofware _**Terminal**_ to make the Shell work on Linux. I will tell you some tips about Shell. At the first, you can find Terminal (find it in app center or use the hot ksey "Ctrl+Alt+T") and enter the next code in it for test: `pwd`
 
 It will return where directory where you are on screen. Like:`/home/rotation`
 
@@ -38,7 +38,7 @@ We need more example to show how you should use command in Terminal: You can cre
 
 If you want know more about your running command, please add command `man` before the command ,like `man mkdir`. Also you can add `-h or -help` to    see the help by developer.
 
-In next part, you can see a list of command you often use.
+In [next part](https://github.com/HDsky/Linux/blob/master/command.md), you can see a list of command you often use.
 
 ## Reference source
 
