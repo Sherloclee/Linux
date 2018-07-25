@@ -1,6 +1,8 @@
-## Hello world!
+# Hello world!
 
-Gitbooklink:https://hdsky.gitbooks.io/linux/content/
+[![](https://img.shields.io/badge/chat-telegram-green.svg?logo=telegram)](https://t.me/joinchat/B5W13REomRfHphVkXodmrw)
+
+Gitbook Link:https://hdsky.gitbooks.io/linux/content/
 
 
 > ”Hello world“ is the first word show on screen when programmer learn a new computer language.
@@ -39,11 +41,11 @@ In next part, you can see a list of command you often use.
 
 ## Reference source
 
-http:\_blog.51cto.com/yangrong/1288072
+http://blog.51cto.com/yangrong/1288072
 
-http:\_www.runoob.com/linux/linux-system-contents.html
+http://www.runoob.com/linux/linux-system-contents.html
 
-https:\_www.jianshu.com/p/4bdc5a6ebbee
+https://www.jianshu.com/p/4bdc5a6ebbee
 
 ## LICENSE
 
