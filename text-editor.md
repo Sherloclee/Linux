@@ -3,6 +3,8 @@
 ## vi
 **vi** is a text editor in Linux. You can use keyboard and mouse to finish your most text work.
 
+> **vim** full name is  _**Vi IMproved**_. They are same one, but near.
+
 ### Enter vi Text Editor
 You can enter vi by next way:
 ``vi filename``, If file no exist ,vi will creat a file.
@@ -35,8 +37,14 @@ In insert mode, the letters you type form words and sentences. Unlike many word 
 You can quit vi in command mode. First, make sure the vi in command mode.And, you can use ``:q`` to quit the vi. If you meet problem the ``:q!`` will help you out of vi without quit.And if you want to save your writed text, press ``:wq`` to save and quit the text.
 
 
-### Here is a picture to show all command in vi
+### Here is a list to show all command in vi
 
+| Command  | Description   |
+| :---     | :---          |
+| :w       | save the file |
+| :q       | quit the vi   |
+| :wq      | quit and save the file |
+| ZZ       | it is equal to `:wp` and you should care about the `Z` is capital letter  |
 
 ## NANO
 
