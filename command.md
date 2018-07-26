@@ -8,9 +8,9 @@ Here is a list of command :
 
 **mkdir**: creat a new directory
 
-**pushd**: switch the dir to target directory and push current dir into a stack
+**pushd**: switch the dir to target directory and push current dir into the directory stack. If path is omitted, it will print the directoy stack.
 
-**popd**:pop the dir from stack and switch to target
+**popd**:pop the dir from the top of the directory stack and switch to target
 
 **cat**: show what writed in file
 
