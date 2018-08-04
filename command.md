@@ -13,7 +13,7 @@ Here is a list of command :
 **ls**: list the list of directory
 
     -l: use a long listing format
-    -a: do not ignore entries starting with
+    -a: show all files(incloud hidden files)
 So you can run like that ``ls -al`` to  show all the directory and file with no hide in list.
 
 **rm** delete file
