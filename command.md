@@ -27,3 +27,15 @@ So you can run like that ``ls -al`` to  show all the directory and file with no 
 **mv**: move file to somewhere 
 
     mv [file name] [where]
+
+
+table:
+| Command  | Description                   |
+---- | ---
+| cd       | switch the dir to target directory                                                                                                                          |
+| mkdir    | creat a new directory                                                                                                                                       |
+| cat      | show what writed in file                                                                                                                                    |
+| ls       | list the list of directory\\ `-l`: use a long listing format\\ So you can run like that `ls -al` to  show all the directory and file with no hide in list.  |
+| mv       | move file to somewhere `mv [file name] [where]`                                                                                                             |
+| cp       | copy file to somewhere `cp [source file] [aims file]`                                                                                                       |
+| rm       | delete file `-r: delete directory`                                                                                                                          |
