@@ -44,7 +44,7 @@ You can quit vi in command mode. First, make sure the vi in command mode.And, yo
 | :w       | save the file |
 | :q       | quit the vi   |
 | :wq      | quit and save the file |
-| ZZ       | it is equal to `:wp` and you should care about the `Z` is capital letter  |
+| ZZ       | it is equal to `:wq` and you should care about the `Z` is capital letter  |
 
 ## NANO
 
