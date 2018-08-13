@@ -16,8 +16,8 @@ So you can run like that ``ls -al`` to  show all the directory and file with no 
 | :---     | :---        |
 | cd       | switch the dir to target directory |
 | mkdir    | creat a new directory |
-|pushd     |switch the dir to target directory and push current dir into the directory stack.If path is omitted, it will print the directoy stack.|
-|popd      |pop the dir from the top of the directory stack and switch to target|
+| pushd    | switch the dir to target directory and push current dir into the directory stack.If path is omitted, it will print the directoy stack. |
+| popd     | pop the dir from the top of the directory stack and switch to target |
 | cat      | show what writed in file |
 | mv       | move file to somewhere `mv [file name] [where]` |
 | rm       | delete file `-r: delete directory` |
