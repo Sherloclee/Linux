@@ -1,6 +1,7 @@
 # Linux
 
 This is all about Linux you want know _**hope**_ : )
+
 (It is also a personal notebook for me)
 
 [![](https://img.shields.io/badge/chat-telegram-green.svg?logo=telegram)](https://t.me/joinchat/B5W13REomRfHphVkXodmrw)
