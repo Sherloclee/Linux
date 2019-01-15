@@ -18,9 +18,16 @@ Open the Microsoft Store and choose Ubuntu
 
 ![](/assets/image_2018-07-25_23-19-13.png)
 
+Install Ubuntu
+
 ![](/assets/image_2018-07-25_23-20-43.png)
 
 ## Step 3
 
 Setup your ubuntu 16.04 LTS and enjoy it.
 
+## another thing
+
+Actually, use this way to install the Ubuntu without GUI(Graphical User Interface). If you want, you can follower the step to install GUI and use it in Windows 10 
+
+https://www.ithome.com/html/win10/398236.htm
