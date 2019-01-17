@@ -12,7 +12,16 @@ Gitbook Link: https://hdsky.gitbooks.io/linux/content/
 And here is a Chinese edition：https://github.com/HDsky/Linux-zh
 
 
-## 
+## List 
+
+Introduction
+
+Install
+
+Command
+
+Text editor
+
 
 
 ## project plan
